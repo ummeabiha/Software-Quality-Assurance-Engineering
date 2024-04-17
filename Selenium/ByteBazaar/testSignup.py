@@ -98,7 +98,7 @@ def test_navigation_links():
 
 # RUN TEST CASES
 def run_test_cases():
-    with open('./TestDataFiles/testSignupData.txt', 'r') as file:
+    with open('./ByteBazaar/TestDataFiles/testSignupData.txt', 'r') as file:
         print("\nRunning Tests for Signup Form")
         lines = file.readlines()
         for line in lines:

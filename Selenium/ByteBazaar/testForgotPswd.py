@@ -65,7 +65,7 @@ def test_navigation_links():
 
 # RUN TEST CASES
 def run_test_cases():
-    with open('./TestDataFiles/testForgotPswdData.txt', 'r') as file:
+    with open('./ByteBazaar/TestDataFiles/testForgotPswdData.txt', 'r') as file:
         print("\nRunning Tests for Forgot Password Form")
         lines = file.readlines()
         for line in lines:

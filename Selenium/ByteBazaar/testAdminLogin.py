@@ -67,7 +67,7 @@ def direct_login_click():
 def run_test_cases():
     print("\nRunning Tests for Admin Login Form")
     direct_login_click()
-    with open('./TestDataFiles/testAdminLoginData.txt', 'r') as file:
+    with open('./ByteBazaar/TestDataFiles/testAdminLoginData.txt', 'r') as file:
         lines = file.readlines()
         for line in lines:
             data = line.strip().split(',')
@@ -82,6 +82,5 @@ def run_test_cases():
     driver.back()
 
 run_test_cases()
-
 time.sleep(1)
 driver.quit()
