@@ -1,0 +1,9 @@
+johnDoe@gmail.com;PASSWORD1!;PASSWORD1!
+johnDoe@gmail.com;password1!;password1!
+johnDoe@gmail.com;Password!;Password!
+johnDoe@gmail.com;Password1;Password1
+johnDoe@gmail.com;Test1@;Test1@
+johnDoe@gmail.com;Password1!;Password1@
+johnDoe@gmail;Password1!;Password1@
+mahamtKhan@gmail.com;Password1!;Password1!
+johnDoe@gmail.com;Password1!;Password1!

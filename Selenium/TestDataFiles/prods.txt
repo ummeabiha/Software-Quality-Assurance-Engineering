@@ -1,5 +1,4 @@
 14; Apple AirPods Pro; 2490.00; ./products/14.png; AirPods; Apple; 4.9; Apple AirPods Pro features active noise cancellation, transparency mode, and customizable fit for immersive audio experience.
 15; Samsung Galaxy Buds Pro; 1990.99; ./products/15.png; AirPods; Samsung; 4.7; Samsung Galaxy Buds Pro offers clear sound, ANC, and water resistance, making them suitable for active lifestyles.
 16; Jabra Elite 85t; 2290.99; ./products/16.png, AirPods; Jabra; 4.6; Jabra Elite 85t provides customizable sound, advanced ANC, and comfortable fit, perfect for work and leisure.
-19; Razer DeathAdder V2; 6299; ./products/19.png; Mouse; Razer; 4.7; High-performance gaming mouse renowned for its precision, speed, and ergonomic design.
-17; Apple Magic Mouse 2; 6637; ./products/17.png; Mouse; Apple; 4.6; Sleek wireless mouse by Apple featuring a multi-touch surface for intuitive gestures and seamless navigation.
+
