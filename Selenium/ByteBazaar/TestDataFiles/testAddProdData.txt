@@ -6,4 +6,4 @@
 11; Bose QuietComfort 35 II; -2990.00; C:\Users\laptop world\Downloads\products\11.png; Headphones; Bose; 4.7; Bose QuietComfort 35 II offers excellent comfort, noise cancellation, and balanced sound quality for a superior listening experience.
 11; Bose QuietComfort 35 II; 2990.00; C:\Users\laptop world\Downloads\products\11.png; Headphones; Bose; -4.7; Bose QuietComfort 35 II offers excellent comfort, noise cancellation, and balanced sound quality for a superior listening experience.
 11; Bose QuietComfort 35 II; 2990.00; C:\Users\laptop world\Downloads\products\11.png; Headphones; Bose; 4.7; Bose QuietComfort 35 II offers excellent comfort, noise cancellation, and balanced sound quality for a superior listening experience.
-16; Jabra Elite 85t; 2290.99; C:\Users\laptop world\Downloads\products\16.png, AirPods; Jabra; 4.6; Jabra Elite 85t provides customizable sound, advanced ANC, and comfortable fit, perfect for work and leisure.
+16; Jabra Elite 85t; 2290.99; C:\Users\laptop world\Downloads\products\16.png; AirPods; Jabra; 4.6; Jabra Elite 85t provides customizable sound, advanced ANC, and comfortable fit, perfect for work and leisure.

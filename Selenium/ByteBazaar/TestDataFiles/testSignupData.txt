@@ -7,4 +7,3 @@ John;Doe;johnDoe@gmail.com;Password1!;Password1@
 Abiha;Rizvi;abiharizvi.2004@gmail.com;Password1!;Password1!
 John;Doe;johnDoe@gmail;Password1!;Password1@
 Emily;James;EmilyJames@gmail.com;Password1!;Password1!
-

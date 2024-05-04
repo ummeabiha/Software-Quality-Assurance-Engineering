@@ -78,7 +78,6 @@ class TestCases(unittest.TestCase):
         self.run_tests(UserLoginPage, file_path)
         logging.info(f"Attempting to access file at: {file_path}")
 
-    
     # Implement user signup test case
     def test_user_signup(self):
         self.run_tests(UserSignupPage, './TestDataFiles/testSignupData.txt')

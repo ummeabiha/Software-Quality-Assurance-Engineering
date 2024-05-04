@@ -45,7 +45,7 @@ class DeleteProdsPage:
         self.perform_delete_action()
         self.dismiss_alert()
 
-        time.sleep(3) 
+        time.sleep(5) 
 
         if self.check_product_quantity(total_prods):
             print("Test case 1 passed: On Dismiss Delete, Products quantity did not decrease.<br>")
@@ -55,7 +55,7 @@ class DeleteProdsPage:
         self.perform_delete_action()
         self.accept_alert()
 
-        time.sleep(3) 
+        time.sleep(5) 
 
         if self.check_product_quantity(total_prods-1):
             print("Test case 2 passed: On Successful Delete, Products quantity decreased.<br>")
